@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AI Image Chatbot</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; background: #f9f9f9; }
+    #chatbox { margin-top: 1em; border: 1px solid #ccc; padding: 1em; background: #fff; }
+    .message { margin: 0.5em 0; }
+    .user { font-weight: bold; color: blue; }
+    .bot { font-weight: bold; color: green; }
+  </style>
+</head>
+<body>
+  <h2>AI Image Chatbot</h2>
+  <input type="file" id="imageInput" accept="image/*" />
+  <button onclick="sendImage()">Send to AI</button>
+  <div id="chatbox"></div>
+
+  <script>
+    async function sendImage() {
+      const fileInput = document.getElementById("imageInput");
+      const file = fileInput.files[0];
+      if (!file) return alert("Please select an image first!");
+
+      const formData = new FormData();
+      formData.append("image", file);
+
+      const res = await fetch("/api/analyze", {
+        method: "POST",
+        body: formData,
+      });
+
+      const data = await res.json();
+      const chatbox = document.getElementById("chatbox");
+      chatbox.innerHTML += `<div class='message user'>You: [Image Sent]</div>`;
+      chatbox.innerHTML += `<div class='message bot'>AI: ${data.reply}</div>`;
+    }
+  </script>
+</body>
+</html>

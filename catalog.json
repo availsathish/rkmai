@@ -1,0 +1,1283 @@
+[
+  {
+    "PRODUCT CODE": "T1",
+    "PRODUCT NAME": "LENO YARN GUIDE 710",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 70
+  },
+  {
+    "PRODUCT CODE": "T2",
+    "PRODUCT NAME": "LENO HOLDER BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 12
+  },
+  {
+    "PRODUCT CODE": "T3",
+    "PRODUCT NAME": "BOBBIN PROSS BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 15
+  },
+  {
+    "PRODUCT CODE": "T4",
+    "PRODUCT NAME": "LENO STICK LOCK PATTI",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 38
+  },
+  {
+    "PRODUCT CODE": "T5",
+    "PRODUCT NAME": "LENO STICK ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 8
+  },
+  {
+    "PRODUCT CODE": "T6",
+    "PRODUCT NAME": "FEELR BOARD",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 3500
+  },
+  {
+    "PRODUCT CODE": "T7",
+    "PRODUCT NAME": "EDP SET 710",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 3000
+  },
+  {
+    "PRODUCT CODE": "T8",
+    "PRODUCT NAME": "EDP SET 610",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2800
+  },
+  {
+    "PRODUCT CODE": "T9",
+    "PRODUCT NAME": "YARN SENSOR BALLON SENSOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 1500
+  },
+  {
+    "PRODUCT CODE": "T10",
+    "PRODUCT NAME": "EDP FOUR CELL PIN",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T11",
+    "PRODUCT NAME": "OIL CAPE (GREEN)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 110
+  },
+  {
+    "PRODUCT CODE": "T12",
+    "PRODUCT NAME": "SIDE DOOR OIL CAPE 2 TYPE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T13",
+    "PRODUCT NAME": "ONE TOUCH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T14",
+    "PRODUCT NAME": "E-SET PLASTIC",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 90
+  },
+  {
+    "PRODUCT CODE": "T15",
+    "PRODUCT NAME": "FELL PLATE LOCK PIECE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 600
+  },
+  {
+    "PRODUCT CODE": "T16",
+    "PRODUCT NAME": "SPLIT BUSH 40X40",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 380
+  },
+  {
+    "PRODUCT CODE": "T17",
+    "PRODUCT NAME": "LENO GEAR (BLACK) 34 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 120
+  },
+  {
+    "PRODUCT CODE": "T18",
+    "PRODUCT NAME": "LENO GEAR (WHITE) 36 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 120
+  },
+  {
+    "PRODUCT CODE": "T19",
+    "PRODUCT NAME": "ADAPTER SLEEVE H 2305",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 180
+  },
+  {
+    "PRODUCT CODE": "T20",
+    "PRODUCT NAME": "LENO CENTER SUPPORT (710,610)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 750
+  },
+  {
+    "PRODUCT CODE": "T21",
+    "PRODUCT NAME": "LENO GEAR 72 TEETH SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 4200
+  },
+  {
+    "PRODUCT CODE": "T22",
+    "PRODUCT NAME": "CLOTH ROLL HANDLE PIECE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T23",
+    "PRODUCT NAME": "CLOTH ROLL CHAIN TEN SENSOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 380
+  },
+  {
+    "PRODUCT CODE": "T24",
+    "PRODUCT NAME": "SELVAJ WASTE ROLL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 45
+  },
+  {
+    "PRODUCT CODE": "T25",
+    "PRODUCT NAME": "6 HOLES SPRING PLATE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 600
+  },
+  {
+    "PRODUCT CODE": "T26",
+    "PRODUCT NAME": "SERVO MOTOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 17000
+  },
+  {
+    "PRODUCT CODE": "T27",
+    "PRODUCT NAME": "POWER SUPPLY BOARD 5V",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 4300
+  },
+  {
+    "PRODUCT CODE": "T28",
+    "PRODUCT NAME": "FUSE BOARD",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 7500
+  },
+  {
+    "PRODUCT CODE": "T29",
+    "PRODUCT NAME": "WSM BRIDGE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 3500
+  },
+  {
+    "PRODUCT CODE": "T30",
+    "PRODUCT NAME": "YARN GUIDE 610",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 70
+  },
+  {
+    "PRODUCT CODE": "T31",
+    "PRODUCT NAME": "MAGNET WIRE PLASTIC PIECE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T32",
+    "PRODUCT NAME": "LENO STICK STEEL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 35
+  },
+  {
+    "PRODUCT CODE": "T33",
+    "PRODUCT NAME": "EDP PIN 610",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 250
+  },
+  {
+    "PRODUCT CODE": "T34",
+    "PRODUCT NAME": "EDP PIN 710",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 250
+  },
+  {
+    "PRODUCT CODE": "T35",
+    "PRODUCT NAME": "LENO GEAR PLASTIC 21 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 110
+  },
+  {
+    "PRODUCT CODE": "T36",
+    "PRODUCT NAME": "FEELER SENSOR SET WITH FD CABLE (610)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 1100
+  },
+  {
+    "PRODUCT CODE": "T37",
+    "PRODUCT NAME": "FEELER SENSOR SET FD CABLE (710)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 1350
+  },
+  {
+    "PRODUCT CODE": "T38",
+    "PRODUCT NAME": "FEELER HEAD",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 950
+  },
+  {
+    "PRODUCT CODE": "T39",
+    "PRODUCT NAME": "TEMPLE RING DAMMY",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 14
+  },
+  {
+    "PRODUCT CODE": "T40",
+    "PRODUCT NAME": "DRC TILAK GREES NIPIL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 50
+  },
+  {
+    "PRODUCT CODE": "T41",
+    "PRODUCT NAME": "OPTICAL CABLE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 700
+  },
+  {
+    "PRODUCT CODE": "T42",
+    "PRODUCT NAME": "EN HOLDER 21 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T43",
+    "PRODUCT NAME": "CRANG SOFT SLEEVE SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 720
+  },
+  {
+    "PRODUCT CODE": "T44",
+    "PRODUCT NAME": "LENO PROSS GEAR BOLT (SPL)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T45",
+    "PRODUCT NAME": "LENOEXCENTERE BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 250
+  },
+  {
+    "PRODUCT CODE": "T46",
+    "PRODUCT NAME": "21 TEETH GEAR WHEEL (PROSS)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 720
+  },
+  {
+    "PRODUCT CODE": "T47",
+    "PRODUCT NAME": "21 TEETH GEAR WHEEL CENTER PUSH SUR CLIP",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T48",
+    "PRODUCT NAME": "6001 2RSR BEARING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 80
+  },
+  {
+    "PRODUCT CODE": "T49",
+    "PRODUCT NAME": "REALAY VALUE PLUNZAR SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 400
+  },
+  {
+    "PRODUCT CODE": "T50",
+    "PRODUCT NAME": "REALAY VALUE (PROSS) NIPIL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 85
+  },
+  {
+    "PRODUCT CODE": "T51",
+    "PRODUCT NAME": "POPPET (REALAY VALUE)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 22
+  },
+  {
+    "PRODUCT CODE": "T52",
+    "PRODUCT NAME": "SET BOLD",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T53",
+    "PRODUCT NAME": "STRICH NOZIL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T54",
+    "PRODUCT NAME": "EESING MOUNT PIN",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 800
+  },
+  {
+    "PRODUCT CODE": "T55",
+    "PRODUCT NAME": "ELECTRICAL CUTTER BURKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2600
+  },
+  {
+    "PRODUCT CODE": "T56",
+    "PRODUCT NAME": "CUTTER TIMING BRAKET SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2600
+  },
+  {
+    "PRODUCT CODE": "T57",
+    "PRODUCT NAME": "CUTTER RAD END 710",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 280
+  },
+  {
+    "PRODUCT CODE": "T58",
+    "PRODUCT NAME": "CUTTER ALUMINIUM BRAKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 750
+  },
+  {
+    "PRODUCT CODE": "T59",
+    "PRODUCT NAME": "HEALD FRAME BRACKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 70
+  },
+  {
+    "PRODUCT CODE": "T60",
+    "PRODUCT NAME": "HEALD FRAME BRAKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 45
+  },
+  {
+    "PRODUCT CODE": "T61",
+    "PRODUCT NAME": "HEALD FRAME BRAKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 45
+  },
+  {
+    "PRODUCT CODE": "T62",
+    "PRODUCT NAME": "GREES FILL CLASS",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 750
+  },
+  {
+    "PRODUCT CODE": "T63",
+    "PRODUCT NAME": "AIR FILTER SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2000
+  },
+  {
+    "PRODUCT CODE": "T64",
+    "PRODUCT NAME": "YARN TENSONAR SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 320
+  },
+  {
+    "PRODUCT CODE": "T65",
+    "PRODUCT NAME": "EASING MOUNT SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 3500
+  },
+  {
+    "PRODUCT CODE": "T66",
+    "PRODUCT NAME": "EASING MOUNT BRAKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 1200
+  },
+  {
+    "PRODUCT CODE": "T67",
+    "PRODUCT NAME": "TOYOTO LENO HOLDER SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 380
+  },
+  {
+    "PRODUCT CODE": "T68",
+    "PRODUCT NAME": "LENO PRESS GEAR23 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 380
+  },
+  {
+    "PRODUCT CODE": "T69",
+    "PRODUCT NAME": "TOYOTO EINTER METER GEAR 34 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 650
+  },
+  {
+    "PRODUCT CODE": "T70",
+    "PRODUCT NAME": "LENO HOLDER PIN",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 320
+  },
+  {
+    "PRODUCT CODE": "T71",
+    "PRODUCT NAME": "LENO GEAR SPL BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 340
+  },
+  {
+    "PRODUCT CODE": "T72",
+    "PRODUCT NAME": "610 PLUNZAR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 240
+  },
+  {
+    "PRODUCT CODE": "T73",
+    "PRODUCT NAME": "REALAY VALUE PROSS NUT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T74",
+    "PRODUCT NAME": "SET BOLD (DIAMOND SHAPE)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T75",
+    "PRODUCT NAME": "NOZIL BLACK (DIAMOND SHAPE)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 85
+  },
+  {
+    "PRODUCT CODE": "T76",
+    "PRODUCT NAME": "EMERGENCY BUTTON",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 800
+  },
+  {
+    "PRODUCT CODE": "T77",
+    "PRODUCT NAME": "CLOTH ROLL DISTANCE BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 60
+  },
+  {
+    "PRODUCT CODE": "T78",
+    "PRODUCT NAME": "SPL BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 40
+  },
+  {
+    "PRODUCT CODE": "T79",
+    "PRODUCT NAME": "CUTTER BUSH SET ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 180
+  },
+  {
+    "PRODUCT CODE": "T80",
+    "PRODUCT NAME": "CRANG HF BRAKET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 65
+  },
+  {
+    "PRODUCT CODE": "T81",
+    "PRODUCT NAME": "EASING MOUNT PIPE SPL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 800
+  },
+  {
+    "PRODUCT CODE": "T82",
+    "PRODUCT NAME": "WASTE ROLLER WITHOUT BEARING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T83",
+    "PRODUCT NAME": "LOAD CELL 710, 810",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 5500
+  },
+  {
+    "PRODUCT CODE": "T84",
+    "PRODUCT NAME": "SINGLE HOLE NUMBER",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 130
+  },
+  {
+    "PRODUCT CODE": "T85",
+    "PRODUCT NAME": "LENO GEAR TYPE 1-17 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 170
+  },
+  {
+    "PRODUCT CODE": "T86",
+    "PRODUCT NAME": "LENO GEAR TYPE 2-23 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 270
+  },
+  {
+    "PRODUCT CODE": "T87",
+    "PRODUCT NAME": "INJECTOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 450
+  },
+  {
+    "PRODUCT CODE": "T88",
+    "PRODUCT NAME": "PU PATTI",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T89",
+    "PRODUCT NAME": "CUTTER GAME",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2300
+  },
+  {
+    "PRODUCT CODE": "T90",
+    "PRODUCT NAME": "PROSS BOLT ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 300
+  },
+  {
+    "PRODUCT CODE": "T91",
+    "PRODUCT NAME": "EASING BRAKET PIN",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 550
+  },
+  {
+    "PRODUCT CODE": "T92",
+    "PRODUCT NAME": "PU PATTI (RED)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 18
+  },
+  {
+    "PRODUCT CODE": "T93",
+    "PRODUCT NAME": "DRC CONNECTOR LOCK SET PLAIN TYPE (5 ITEMS)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T94",
+    "PRODUCT NAME": "DRC HOOK SET PLASTIC",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 45
+  },
+  {
+    "PRODUCT CODE": "T95",
+    "PRODUCT NAME": "DRC LOCK PROSS",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 120
+  },
+  {
+    "PRODUCT CODE": "T96",
+    "PRODUCT NAME": "FRAME CENTER DRC",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 400
+  },
+  {
+    "PRODUCT CODE": "T97",
+    "PRODUCT NAME": "FRAME CENTER DRC (NEELAM)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T98",
+    "PRODUCT NAME": "DRC LOCK 200 M.M",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 280
+  },
+  {
+    "PRODUCT CODE": "T99",
+    "PRODUCT NAME": "DRC LOCK 170 M.M",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 250
+  },
+  {
+    "PRODUCT CODE": "T100",
+    "PRODUCT NAME": "INTERMEDIATE GEAR WITH BEARING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T101",
+    "PRODUCT NAME": "LENO DEVICE 330 CM",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T102",
+    "PRODUCT NAME": "LENO DEVICE 280 CM",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T103",
+    "PRODUCT NAME": "DRC LOCK SET (NLURING TYPE)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 550
+  },
+  {
+    "PRODUCT CODE": "T104",
+    "PRODUCT NAME": "FOOT SIM (ORGINAL)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T105",
+    "PRODUCT NAME": "TEMPLE SPL BELT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 35
+  },
+  {
+    "PRODUCT CODE": "T106",
+    "PRODUCT NAME": "FEEL PLATE LOCK SUPPORT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 750
+  },
+  {
+    "PRODUCT CODE": "T107",
+    "PRODUCT NAME": "CUT BEARING (BIG) SIZE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 400
+  },
+  {
+    "PRODUCT CODE": "T108",
+    "PRODUCT NAME": "DRC SPRING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 12
+  },
+  {
+    "PRODUCT CODE": "T109",
+    "PRODUCT NAME": "BEEM BEARING BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T110",
+    "PRODUCT NAME": "LENO GEAR 34 TEETH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 300
+  },
+  {
+    "PRODUCT CODE": "T111",
+    "PRODUCT NAME": "REALAY VALUE PLUNZAR SET (SPL)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 480
+  },
+  {
+    "PRODUCT CODE": "T112",
+    "PRODUCT NAME": "LENO STICK (SS) SPL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 55
+  },
+  {
+    "PRODUCT CODE": "T113",
+    "PRODUCT NAME": "LENO TENSONAR DOUBLE PICK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 950
+  },
+  {
+    "PRODUCT CODE": "T114",
+    "PRODUCT NAME": "REED SUPPORT PLASTIC ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 100
+  },
+  {
+    "PRODUCT CODE": "T115",
+    "PRODUCT NAME": "KEYBOARD BUTTON STICKER",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 450
+  },
+  {
+    "PRODUCT CODE": "T116",
+    "PRODUCT NAME": "UNDERMOTION CONTITGI CLAMP",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 15
+  },
+  {
+    "PRODUCT CODE": "T117",
+    "PRODUCT NAME": "T-LENO SENSOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 2200
+  },
+  {
+    "PRODUCT CODE": "T118",
+    "PRODUCT NAME": "TOYOTO FINGER (SMALL)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T119",
+    "PRODUCT NAME": "REED CLAMP",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T120",
+    "PRODUCT NAME": "PREWINDER AIR WITCH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 600
+  },
+  {
+    "PRODUCT CODE": "T121",
+    "PRODUCT NAME": "PREWINDER AIR SWITCH SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 730
+  },
+  {
+    "PRODUCT CODE": "T122",
+    "PRODUCT NAME": "SET BOLT (FD CLAMP) SMALL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T123",
+    "PRODUCT NAME": "4MM PERUL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 6
+  },
+  {
+    "PRODUCT CODE": "T124",
+    "PRODUCT NAME": "AIR HORSE 8 MM",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 10
+  },
+  {
+    "PRODUCT CODE": "T125",
+    "PRODUCT NAME": "DRC SPECIAL BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 75
+  },
+  {
+    "PRODUCT CODE": "T126",
+    "PRODUCT NAME": "EDP SPRING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 22
+  },
+  {
+    "PRODUCT CODE": "T127",
+    "PRODUCT NAME": "EDP PUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 60
+  },
+  {
+    "PRODUCT CODE": "T128",
+    "PRODUCT NAME": "EDP PUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 40
+  },
+  {
+    "PRODUCT CODE": "T129",
+    "PRODUCT NAME": "EDP PUSH ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 30
+  },
+  {
+    "PRODUCT CODE": "T130",
+    "PRODUCT NAME": "EDP PUSH (TO+TS)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 35
+  },
+  {
+    "PRODUCT CODE": "T131",
+    "PRODUCT NAME": "EDP PUSH (T, TS)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 60
+  },
+  {
+    "PRODUCT CODE": "T132",
+    "PRODUCT NAME": "CUTTER SPECIAL BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 28
+  },
+  {
+    "PRODUCT CODE": "T133",
+    "PRODUCT NAME": "EDP PUSH ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 65
+  },
+  {
+    "PRODUCT CODE": "T134",
+    "PRODUCT NAME": "SPLIT BUSH (TOYOTO CUTTER)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 85
+  },
+  {
+    "PRODUCT CODE": "T135",
+    "PRODUCT NAME": "TOYOTO MAIN CUTTER SOFT ELECTRONIC)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 380
+  },
+  {
+    "PRODUCT CODE": "T136",
+    "PRODUCT NAME": "CUTTER CALOR",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 110
+  },
+  {
+    "PRODUCT CODE": "T137",
+    "PRODUCT NAME": "T-180 CUTTER BLADE ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 260
+  },
+  {
+    "PRODUCT CODE": "T138",
+    "PRODUCT NAME": "T-MAIN CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 220
+  },
+  {
+    "PRODUCT CODE": "T139",
+    "PRODUCT NAME": "T-CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 280
+  },
+  {
+    "PRODUCT CODE": "T140",
+    "PRODUCT NAME": "CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 280
+  },
+  {
+    "PRODUCT CODE": "T141",
+    "PRODUCT NAME": "TOYOTO MACHANICAL CUTTER BLADE WITH PLATE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T142",
+    "PRODUCT NAME": "ELECTRONIC CUTTER PLATE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T143",
+    "PRODUCT NAME": "T-MACHANICAL CUTTER BLADE WITH SOFT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 570
+  },
+  {
+    "PRODUCT CODE": "T144",
+    "PRODUCT NAME": "T-SELVEDGE CUTTER SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 850
+  },
+  {
+    "PRODUCT CODE": "T145",
+    "PRODUCT NAME": "T-MAGNET WIRE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 70
+  },
+  {
+    "PRODUCT CODE": "T146",
+    "PRODUCT NAME": "MAGNET WIRE SPL BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 22
+  },
+  {
+    "PRODUCT CODE": "T147",
+    "PRODUCT NAME": "LENO SPRING LOCK BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 22
+  },
+  {
+    "PRODUCT CODE": "T148",
+    "PRODUCT NAME": "SPRING LOCK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T149",
+    "PRODUCT NAME": "SPRING LOCK THREAD BOLT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T150",
+    "PRODUCT NAME": "E-RING",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 6
+  },
+  {
+    "PRODUCT CODE": "T151",
+    "PRODUCT NAME": "LENO NUT WASHER 8 MM WITH LENO SPL NUT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 8
+  },
+  {
+    "PRODUCT CODE": "T152",
+    "PRODUCT NAME": "LENO NUT WITH WASHER SET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T153",
+    "PRODUCT NAME": "LENO PLASTIC (THREAD)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 23
+  },
+  {
+    "PRODUCT CODE": "T154",
+    "PRODUCT NAME": "LENO HOLDER LOCK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T155",
+    "PRODUCT NAME": "MACHNICAL CUTTER SOFT (BIG)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 200
+  },
+  {
+    "PRODUCT CODE": "T156",
+    "PRODUCT NAME": "MACHANICAL CUTTER SOFT (SMALL)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 180
+  },
+  {
+    "PRODUCT CODE": "T157",
+    "PRODUCT NAME": "MAIN CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 280
+  },
+  {
+    "PRODUCT CODE": "T158",
+    "PRODUCT NAME": "MAIN CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T159",
+    "PRODUCT NAME": "MAIN CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 260
+  },
+  {
+    "PRODUCT CODE": "T160",
+    "PRODUCT NAME": "SELVEDGE CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 220
+  },
+  {
+    "PRODUCT CODE": "T161",
+    "PRODUCT NAME": "T-MAIN CUTTER BLADE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 350
+  },
+  {
+    "PRODUCT CODE": "T162",
+    "PRODUCT NAME": "710 CUTTER PLATE",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 60
+  },
+  {
+    "PRODUCT CODE": "T163",
+    "PRODUCT NAME": "CUTTER BUSH  ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T164",
+    "PRODUCT NAME": "MAIN CUTTER SOFT MACHANICAL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 340
+  },
+  {
+    "PRODUCT CODE": "T165",
+    "PRODUCT NAME": "PROFILE LOCK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 40
+  },
+  {
+    "PRODUCT CODE": "T166",
+    "PRODUCT NAME": "6MM RAD END",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 140
+  },
+  {
+    "PRODUCT CODE": "T167",
+    "PRODUCT NAME": "8MM RAD END",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 160
+  },
+  {
+    "PRODUCT CODE": "T168",
+    "PRODUCT NAME": "REALAY VALUE COIL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 600
+  },
+  {
+    "PRODUCT CODE": "T169",
+    "PRODUCT NAME": "WEPT STORE AGE BODY",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 650
+  },
+  {
+    "PRODUCT CODE": "T170",
+    "PRODUCT NAME": "MAIN VALUE 8MM NOZIL",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 30
+  },
+  {
+    "PRODUCT CODE": "T171",
+    "PRODUCT NAME": "GREES REFILL NUT",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 35
+  },
+  {
+    "PRODUCT CODE": "T172",
+    "PRODUCT NAME": "6MM OIL PERUL NUT (PRESS)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 35
+  },
+  {
+    "PRODUCT CODE": "T173",
+    "PRODUCT NAME": "710 EDP BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T174",
+    "PRODUCT NAME": "MAIN VALUE POPPET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 20
+  },
+  {
+    "PRODUCT CODE": "T175",
+    "PRODUCT NAME": "MAIN VALUE POPPET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 18
+  },
+  {
+    "PRODUCT CODE": "T176",
+    "PRODUCT NAME": "MAIN VALUE POPPET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 15
+  },
+  {
+    "PRODUCT CODE": "T177",
+    "PRODUCT NAME": "TS,T POPPET",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T178",
+    "PRODUCT NAME": "OIL CAPE  ",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 150
+  },
+  {
+    "PRODUCT CODE": "T179",
+    "PRODUCT NAME": "PU PATTI (RED)",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 18
+  },
+  {
+    "PRODUCT CODE": "T180",
+    "PRODUCT NAME": "710 EDP BUSH",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 15
+  },
+  {
+    "PRODUCT CODE": "T181",
+    "PRODUCT NAME": "T-REALAY VALUE STOPPER",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 25
+  },
+  {
+    "PRODUCT CODE": "T182",
+    "PRODUCT NAME": "MAIN CUTTER LOCK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 210
+  },
+  {
+    "PRODUCT CODE": "T183",
+    "PRODUCT NAME": "MAIN CUTTER LOCK",
+    "CATEGORY": "TOYOTA",
+    "STOCK": 100,
+    "RATE": 210
+  }
+]
